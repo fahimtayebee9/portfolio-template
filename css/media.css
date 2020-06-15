@@ -15,7 +15,7 @@
         width: 100%!important;
     }
     .service-card-area .card::before {
-        border-top: 100px solid #ff0000;
+        border-top: 100px solid #ffffff;
         border-right: 100px solid transparent;
         /* opacity: 1; */
     }
